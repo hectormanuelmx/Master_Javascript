@@ -21,8 +21,10 @@ body,html{
     font-family: 'Noto Sans', 'sans-serif';
     display: flex;
     justify-content: ;
+    color: white;
     font-size:30px;
     margin: 0px;
+    text-shadow: 0px 0px 5px #000;
     
 }
 .hero-image{
