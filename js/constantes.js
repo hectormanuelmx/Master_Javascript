@@ -2,7 +2,7 @@
 
 var nombre = "Hector Manuel";
 
-const nom2 = "Valeria Rm";
+const nom2 = "Valeria";
 
 
 
